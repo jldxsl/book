@@ -1,0 +1,2 @@
+webpackJsonp([5],{KL2D:function(e,t){},QV70:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n    Collect\n")])},staticRenderFns:[]};var c=n("VU/8")({data:function(){return{}},methods:{},computed:{},components:{}},r,!1,function(e){n("KL2D")},"data-v-0d37826e",null);t.default=c.exports}});
+//# sourceMappingURL=5.895516bef349f3f9465c.js.map
